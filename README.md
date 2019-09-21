@@ -49,6 +49,8 @@ backslice
 
 ## Confusion matrix
 
+`Accuracy is 89.32 %`
+
 |             |idle_pred      |forehand_pred  |backhand_pred  |foreslice_pred  |backslice_pred  |
 |-------------|---------------|---------------|---------------|----------------|----------------|
 |idle_gt      |2684          |14             |40             |13              |99             |
