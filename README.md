@@ -21,3 +21,15 @@ foreslice
 
 ![image](https://user-images.githubusercontent.com/34574033/65372320-5d098700-dca9-11e9-9da7-c4eb482a9196.png)
 backslice
+
+## feature importance
+![image](https://user-images.githubusercontent.com/34574033/65372335-87f3db00-dca9-11e9-9c48-b65e0cddfe5b.png)
+
+## Confusion matrix
+|             |idle_pred      |forehand_pred  |backhand_pred  |foreslice_pred  |backslice_pred  |
+|-------------|---------------|---------------|---------------|----------------|----------------|
+|idle_gt      |2684          |14             |40             |13              |99             |
+|forehand_gt  |55            |188            |0              |17              |0               |
+|backhand_gt  |43             |0              |660            |0               |0               |
+|foreslice_gt |87            |12            |0              |135           |0               |
+|backslice_gt |52             |0              |1              |0               |295             |
