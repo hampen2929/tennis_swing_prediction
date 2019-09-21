@@ -12,6 +12,7 @@ The artcle in Japanese is here().
 ## Train and test data
 
 Train
+
 |action|frame count|swing count|
 |----|------|---|
 |idle|    11384|-|
@@ -21,6 +22,7 @@ Train
 |backslice|988|38|
 
 Test
+
 |action|frame count|swing count|
 |----|------|---|
 |idle|    2850|-|
@@ -46,6 +48,7 @@ backslice
 ![image](https://user-images.githubusercontent.com/34574033/65372335-87f3db00-dca9-11e9-9c48-b65e0cddfe5b.png)
 
 ## Confusion matrix
+
 |             |idle_pred      |forehand_pred  |backhand_pred  |foreslice_pred  |backslice_pred  |
 |-------------|---------------|---------------|---------------|----------------|----------------|
 |idle_gt      |2684          |14             |40             |13              |99             |
